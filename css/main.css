@@ -1,0 +1,24 @@
+body {
+    background-color: #000
+}
+
+#console {
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+    background-color: #000000;
+    border: none;
+    font-family: courier, monospace;
+    color: #fff;
+    margin-left: auto;
+    min-width: 500px;
+    min-height: 600px;
+    margin-right: auto;
+    margin-top: 40px;
+    font-size:14px;
+    overflow: hidden;
+    outline: none;
+    resize: none;
+}
