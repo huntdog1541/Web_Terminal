@@ -1,0 +1,22 @@
+{
+  "name": "web_terminal",
+  "version": "1.0.0",
+  "description": "a web terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "web_t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntdog1541/Web_Terminal.git"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "David Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huntdog1541/Web_Terminal/issues"
+  },
+  "homepage": "https://github.com/huntdog1541/Web_Terminal#readme"
+}
