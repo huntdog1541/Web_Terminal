@@ -4,7 +4,7 @@
   "description": "a web terminal",
   "main": "index.js",
   "scripts": {
-    "test": "web_t"
+    "start": "electron index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/huntdog1541/Web_Terminal/issues"
   },
-  "homepage": "https://github.com/huntdog1541/Web_Terminal#readme"
+  "homepage": "https://github.com/huntdog1541/Web_Terminal#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.2"
+  }
 }

@@ -13,8 +13,8 @@ textarea {
     font-family: courier, monospace;
     color: #fff;
     margin-left: auto;
-    min-width: 500px;
-    min-height: 600px;
+    min-width: fit-content;
+    min-height: fit-content;
     margin-right: auto;
     margin-top: 40px;
     font-size:14px;
