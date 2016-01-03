@@ -13,15 +13,29 @@ body {
     justify-content: center;
 }
 
-textarea {
+#text {
     background-color: #000000;
     border: none;
     font-family: courier, monospace;
     color: #fff;
     min-width: 800px;
-    min-height: 600px;
+    min-height: 400px;
     font-size:14px;
     overflow: hidden;
     outline: none;
+    resize: none;
+}
+
+#con2 {
+    display: flex;
+    justify-content: center;
+}
+
+#display {
+    background-color: #ffffff;
+    font-family: courier, monospace;
+    color: black;
+    min-width: 800px;
+    min-height: 200px;
     resize: none;
 }
