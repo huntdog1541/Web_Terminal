@@ -2,6 +2,7 @@
  * Created by David on 12/27/2015.
  */
 
+
 window.onload =  function addRoot() {
     var x = document.getElementById("text");
     x.value = "root$ ";
@@ -34,6 +35,7 @@ function getKeys() {
     //disableConsole();
     $('#text').keypress(function() {
        $('#display').value += "  detected keypress";
+        console.log("Added keypress");
     });
 }
 
